@@ -1,4 +1,4 @@
-# you shall not pass
+# you-shall-not-pass
 
 Program that checks the strength of a password. The check follows different criteria: 
 
