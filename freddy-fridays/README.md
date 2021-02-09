@@ -1,3 +1,3 @@
 # freddy-fridays
 
-Program som teller antall fredag den 13. for hvert år i en gitt rekke med år. Programmet finner også det største antallet fredag den 13. som forekommer på et år i rekken, og viser de av årene hvor dette forekommer. 
+This program counts the number of Friday the 13ths for each year in a given sequence of years. The program also finds the greatest number of Friday the 13ths that occurs in a single year in the sequence, and displays in which years this happens. 
