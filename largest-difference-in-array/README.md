@@ -1,3 +1,5 @@
 # largest-difference-in-array
 
-Program som finner maks differanse mellom to heltall i en gitt array. Programmet må forholde seg til en regel: Den minste av de to heltallene må komme før den større i arrayen. I tillegg til dette, så finner programmet også alle tallpar som sammenlagt får samme sum som den høyeste differansen. Her gjelder også en regel: Man kan ikke legge det tallet man ser på sammen med et tall som, i forhold til dette tallet, ligger bak det i rekken.  
+This program finds the greatest difference between two integers in a given array. However, there is a rule that needs to be followed: The smallest of the two integers must come before the bigger in the array. 
+
+The program also finds all integer pairs that, added together, will get the same value as the greatest difference. However, there is also a rule for this: You can't add the current number you're looking at together with a number that is behind it in the sequence. 
