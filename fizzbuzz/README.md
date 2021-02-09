@@ -1,3 +1,3 @@
 # fizzbuzz
 
-Et enkelt "FizzBuzz"-program. Hovedsaklig gjort for å bli kjent med utføringen av en "Kata".
+An easy "FizzBuzz" program. Mainly done to get familiar with the execution of a "kata".
